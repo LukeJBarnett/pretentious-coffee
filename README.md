@@ -1,5 +1,5 @@
 # pretentious-coffee
-A how-to coffee website for wankers.
+A how-to coffee website for Silly Humans.
 
 This is the "good" version of my TOP recipe website. I'm a barista by trade so heres a silly coffee website. 
 
